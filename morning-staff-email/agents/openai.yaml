@@ -1,0 +1,4 @@
+interface:
+  display_name: "Morning Staff Email"
+  short_description: "Draft Homecroft morning absence emails."
+  default_prompt: "Use $morning-staff-email to prepare today's Homecroft morning staff email from Frontline."
