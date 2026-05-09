@@ -137,6 +137,7 @@ Apply these rules:
 - After the greeting, write 1-2 thoughtful sentences connecting the quote to Homecroft Elementary, students, teaching, or education in general.
 - Keep the quote connection specific and concise; do not write a generic motivational paragraph or more than two sentences.
 - Use a rotating greeting and closing.
+- Keep list entries within each section single-spaced: do not add blank lines between multiple absence lines or multiple floating-sub lines. Use blank lines only between major sections, the quote, greeting, paragraph, headings, and closing.
 
 ## Corrections
 
