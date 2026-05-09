@@ -9,13 +9,15 @@ Use this skill for normal school-day morning emails, Monday through Friday. It i
 
 ## Open Frontline
 
-Open the Browser skill and go to:
+Open Frontline in the Codex in-app Browser using the Browser skill, make the browser visible to Aaron, and go to:
 
 ```text
 https://absenceadminweb.frontlineeducation.com/access
 ```
 
 Ask Aaron to log in if login is required. Never enter credentials.
+
+Use Chrome or another browser only if the in-app Browser/browser-use tool is unavailable. If a fallback browser is needed, say so briefly.
 
 After Aaron logs in, navigate to the Daily Report. If the dashboard exposes a dated `DAILY REPORT` link, use that visible link instead of guessing a URL.
 
@@ -95,6 +97,7 @@ Apply these rotation rules:
 
 - Use a different greeting for 10 runs before repeating.
 - Use a different closing for 8 runs before repeating.
+- Prefer greetings and closings from `references/greeting-and-closing-options.md`; avoid defaulting to the same familiar line when history is unknown.
 - If prior-day history is not available, choose options that fit the day and avoid reusing them within the same conversation.
 
 ## Write The Email
